@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# TO SET FILE TO EXECUTABLE:
+# chmod 755 dev
+
+go run main.go
